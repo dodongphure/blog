@@ -5,7 +5,16 @@
 <h1>Phu's Blog</h1>
 <h3>Demo Blogs</h3>
 
-<%= render @articles %>
+<%= form_tag(articles_path, :method => "get", id: "search-form") do %>
+<%= text_field_tag :search, params[:search], placeholder: "Search Posts" %>
+<%= submit_tag "Search" %>
+<% end %>
+
+<% if @articles.present? %>
+  <%= render @articles %>
+<% else %>
+  <p>There are no articles containing the term(s) "<%= params[:search] %>".</p>
+<% end %>
 
 <%= link_to 'New Article', new_article_path %>
 
