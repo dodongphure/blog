@@ -53,6 +53,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Quite difficult when installing PostgreSQL :(.
+I really do not have much time to do this exercise. Just spend few hours for this.
 
 ## License
 
