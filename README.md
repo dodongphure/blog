@@ -11,7 +11,7 @@ Submitted by: **Do Dong Phu**
 
 Time spent: **3** hours spent in total
 
-URL: **Ihttps://phublogs.herokuapp.com/articles**
+URL: **https://phublogs.herokuapp.com/articles**
 
 ## User Stories
 
