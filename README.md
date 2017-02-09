@@ -11,7 +11,7 @@ Submitted by: **Do Dong Phu**
 
 Time spent: **3** hours spent in total
 
-URL: **https://phublogs.herokuapp.com/articles**
+URL: **Insert your Heroku URL here**
 
 ## User Stories
 
@@ -54,7 +54,6 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Quite difficult when installing PostgreSQL :(.
 I really do not have much time to do this exercise. Just spend few hours for this.
-
 
 ## License
 
